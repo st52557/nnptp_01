@@ -7,5 +7,3 @@ git commit -m
 git log
 gitk
 
-
-
