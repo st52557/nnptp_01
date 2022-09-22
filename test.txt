@@ -7,3 +7,4 @@ git commit -m
 git log
 gitk
 git merge develop (začlení develop do aktuální)
+git pull = git fetch + git merge
