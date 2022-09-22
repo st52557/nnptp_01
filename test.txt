@@ -6,5 +6,4 @@ git commit ("i", zadat text, "esc,:wq")
 git commit -m
 git log
 gitk
-
-sadf
+git merge develop (začlení develop do aktuální)
